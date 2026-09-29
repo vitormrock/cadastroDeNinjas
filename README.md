@@ -15,4 +15,4 @@ Projeto desenvolvido com o objetivo de estudar e praticar conceitos de desenvolv
 
 ## 👨‍💻 Autor
 
-Vitor Moreira
+Vitor Moreira R
