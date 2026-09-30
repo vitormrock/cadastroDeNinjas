@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController //Diz que a classe será um Controller RESt
 @RequestMapping // Pode definir um caminho base para as rotas
-public class Controller {
+public class NinjaController {
 
     @GetMapping ("/boasvindas") // Define uma rota para requisições GET
     public String boasVindas(){
